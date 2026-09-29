@@ -100,11 +100,7 @@ Requester Notification
 
 The repository contains the project documentation, architecture, workflow description, configuration plan and supporting project structure. ServiceNow instance implementation evidence and the final demo recording can be added to the repository after the working instance is available.
 
-## Demo
 
-Final working-demo link will be added here:
-
-`[Add Demo Video Link]`
 
 ## Author
 
